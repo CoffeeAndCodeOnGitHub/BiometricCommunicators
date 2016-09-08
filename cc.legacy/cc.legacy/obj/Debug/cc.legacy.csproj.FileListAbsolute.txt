@@ -1,0 +1,5 @@
+C:\Demo\cc.legacy\cc.legacy\bin\Debug\cc.legacy.dll
+C:\Demo\cc.legacy\cc.legacy\bin\Debug\cc.legacy.pdb
+C:\Demo\cc.legacy\cc.legacy\obj\Debug\cc.legacy.csprojResolveAssemblyReference.cache
+C:\Demo\cc.legacy\cc.legacy\obj\Debug\cc.legacy.dll
+C:\Demo\cc.legacy\cc.legacy\obj\Debug\cc.legacy.pdb
